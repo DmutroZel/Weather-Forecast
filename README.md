@@ -1,5 +1,5 @@
 # Weather-Forecast
-<img src="./sait.png" alt="">
+<img src="./image.png" alt="">
 
 
  HTML
